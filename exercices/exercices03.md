@@ -77,3 +77,5 @@ Demander à l'utilisateur un mot de passe, le mot de passe est valide si:
 - il contient au moins un symbole parmi "+-*/"
 - il est plus long que 8 caractères
 - et tous les caractères sont autorisés
+
+
